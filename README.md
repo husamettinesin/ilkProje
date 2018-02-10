@@ -1,0 +1,2 @@
+# ilkProje
+İlk test projem
